@@ -1,0 +1,24 @@
+{
+    "records": {
+        "MSGTopic-0": [
+            {
+                "topic": "MSGTopic",
+                "partition": 0,
+                "offset": 133,
+                "timestamp": 1643511635361,
+                "timestampType": "CREATE_TIME",
+                "value": "eyJlbXBJZCIgOiA5LCAiZmlyc3ROYW1lIiA6ICJhbmFuZCIsICJsYXN0TmFtZSIgOiAia3VtYXIifQ=="
+            },
+            {
+                "topic": "MSGTopic",
+                "partition": 0,
+                "offset": 134,
+                "timestamp": 1643511668755,
+                "timestampType": "CREATE_TIME",
+                "value": "eyJlbXBJZCIgOiAxMSwgImZpcnN0TmFtZSIgOiAiYW5hbmQiLCAibGFzdE5hbWUiIDogImt1bWFyIn0="
+            }
+        ]
+    },
+    "eventSource": "aws:kafka",
+    "eventSourceArn": "arn:aws:kafka:us-east-1:569873543694:cluster/EligibilityCluster/51ede9ec-91f6-4455-83e8-e669e3f7766e-17"
+}

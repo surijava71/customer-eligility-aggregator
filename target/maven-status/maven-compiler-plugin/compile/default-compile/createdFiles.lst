@@ -1,0 +1,5 @@
+com\healthfirst\amazonws\kafka\aggregator\MSKAggregatorHandler.class
+com\healthfirst\amazonws\kafka\aggregator\util\DynamoDBUtils.class
+com\healthfirst\amazonws\kafka\aggregator\util\EventToItemUtils.class
+com\healthfirst\amazonws\kafka\aggregator\producer\Producer.class
+com\healthfirst\amazonws\kafka\aggregator\util\AggregateUtils.class
